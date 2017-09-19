@@ -8,10 +8,17 @@ using System.Windows;
 
 namespace GraphIt
 {
+    using System.Diagnostics;
+
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
     public partial class App : Application
     {
+        protected override void OnStartup(StartupEventArgs e)
+        {
+            base.OnStartup(e);
+            Debug.WriteLine("Starting up ...");
+        }
     }
 }
