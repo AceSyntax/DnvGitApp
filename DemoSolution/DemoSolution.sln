@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphIt", "GraphIt\GraphIt.csproj", "{C8233F3E-5154-43B1-9004-5757A4D29BD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeControl", "HomeControl\HomeControl.csproj", "{7202D77E-CB31-4CD0-BA72-456858103A55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C8233F3E-5154-43B1-9004-5757A4D29BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8233F3E-5154-43B1-9004-5757A4D29BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8233F3E-5154-43B1-9004-5757A4D29BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7202D77E-CB31-4CD0-BA72-456858103A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7202D77E-CB31-4CD0-BA72-456858103A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7202D77E-CB31-4CD0-BA72-456858103A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7202D77E-CB31-4CD0-BA72-456858103A55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
