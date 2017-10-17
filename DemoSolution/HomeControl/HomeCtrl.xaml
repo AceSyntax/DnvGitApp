@@ -13,10 +13,12 @@
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="100" />
+            <RowDefinition Height="100" />
             <RowDefinition Height="*" />
         </Grid.RowDefinitions>
         
         <Grid Grid.Row="0" Grid.ColumnSpan="2" Background="AliceBlue" ></Grid>
+        <Grid Grid.Row="1" Grid.ColumnSpan="2" Background="DeepSkyBlue" ></Grid>
         
     </Grid>
 </UserControl>
