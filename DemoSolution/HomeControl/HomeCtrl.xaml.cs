@@ -10,6 +10,7 @@ namespace HomeControl
         public HomeCtrl()
         {
             InitializeComponent();
+            // doug's change...
         }
     }
 }
